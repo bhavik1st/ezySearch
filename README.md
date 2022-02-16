@@ -1,0 +1,2 @@
+# ezySearch
+Search your desktop
